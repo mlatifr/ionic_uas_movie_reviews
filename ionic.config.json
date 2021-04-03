@@ -1,0 +1,7 @@
+{
+  "name": "uas_latif",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
